@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Ajita Dhekne</h1>
+<h1 align="center">Hi !! 👋 I'm Ajita Dhekne</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif" width="600" height="400"/>
