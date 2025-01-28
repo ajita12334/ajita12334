@@ -58,7 +58,7 @@
   <a href="mailto:dhekneajita@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/ajita-dhekne/" target="_blank">
+  <a href="https://www.linkedin.com/in/ajita-dhekne-042a5922a/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
  
